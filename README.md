@@ -50,8 +50,7 @@ user-management-system/
 
 - **FastAPI** - High-performance web framework
 - **Pydantic** - Data validation
-- **SQLAlchemy** - ORM for DB operations
-- **PostgreSQL** - Database (via Docker)
+- **MongoDB** - ORM for DB operations
 - **JWT (PyJWT)** - Secure token-based authentication
 - **Docker + Compose** - Containerization
 - **bcrypt** - Password hashing
