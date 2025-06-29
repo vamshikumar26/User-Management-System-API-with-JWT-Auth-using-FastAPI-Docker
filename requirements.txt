@@ -1,0 +1,15 @@
+fastapi
+
+uvicorn
+
+python-multipart
+
+pymongo
+
+passlib
+
+bcrypt
+
+Pyjwt
+
+python-jose
